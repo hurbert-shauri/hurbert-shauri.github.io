@@ -37,9 +37,21 @@
 		transitionDuration: 2500,
 		delay: 5000,
     	slides: [
-       	{ src: "images/slides/03.jpg" },
-        	{ src: "images/slides/02.jpg" },
-        	{ src: "images/slides/01.jpg" }
+       	{ src: "images/slides/slides-01.jpg" },
+       	{ src: "images/slides/slides-02.jpg" },
+       	{ src: "images/slides/slides-03.jpg" },
+       	{ src: "images/slides/slides-04.jpg" },
+       	{ src: "images/slides/slides-05.jpg" },
+       	{ src: "images/slides/slides-06.jpg" },
+       	{ src: "images/slides/slides-07.jpg" },
+       	{ src: "images/slides/slides-08.jpg" },
+       	{ src: "images/slides/slides-09.jpg" },
+       	{ src: "images/slides/slides-10.jpg" },
+       	{ src: "images/slides/slides-11.jpg" },
+       	{ src: "images/slides/slides-12.jpg" },
+       	{ src: "images/slides/slides-13.jpg" },
+       	{ src: "images/slides/slides-14.jpg" },
+       	{ src: "images/slides/slides-15.jpg" },
     	]
 	});
 
