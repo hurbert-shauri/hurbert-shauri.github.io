@@ -1188,7 +1188,7 @@ header .social-links ul li a:focus {
 		font-size: 2.1rem;
 	}
 	.main-content-tablecell p {
-		font-size: 1.2rem;
+		font-size: 1.1rem;
 	}
 	.scroll-icon {
 		right: 45px;
@@ -1208,7 +1208,7 @@ header .social-links ul li a:focus {
 		font-size: 8.4rem;
 	}
 	.main-content-tablecell h1 {
-		font-size: 1.9rem;
+		font-size: 2rem;
 	}
 }
 @media only screen and (max-width:500px) {
